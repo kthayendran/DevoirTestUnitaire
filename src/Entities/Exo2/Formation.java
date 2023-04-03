@@ -87,7 +87,7 @@ public class Formation
     // Cette méthode permet de calculer le bénéfice de la formation.
     // Ce dernier se détermine en multipliant le nombre de présents par le prix de la formation moins
     // les frais kilométriques versés
-    public double BeneficeFormation()
+    public double BeneficeFormation(List<Participant> participants)
     {
         // A compléter ici
         return  0;
